@@ -28,7 +28,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://exmagic.github.io/'
 
 github:
-  username: exMagic             # change to your github username
+  username: exMagic           # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
