@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/exMagic/exmagic.github.io/master/ex_03.jpg
+avatar: https://raw.githubusercontent.com/exMagic/exmagic.github.io/master/assets/img/ex_03.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
